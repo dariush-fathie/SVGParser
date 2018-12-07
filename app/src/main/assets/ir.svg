@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+
+<svg
+
+        x="0" y="0"
+        version="1.1"
+        viewbox="0 0 1000 908"
+        width="1000px" height="908px"
+        xml:space="preserve"
+        enable-background="new 20 0 1000 908"
+        xmlns="http://www.w3.org/2000/svg">
+
+
+    <defs>
+		<style type="text/css">
+			.land
+			{
+				fill: #CCCCCC;
+				fill-opacity: 1;
+				stroke:white;
+				stroke-opacity: 1;
+				stroke-width:2;
+			}
+
+            .sea
+            {
+                fill: #1976d2;
+				fill-opacity: 1;
+            }
+		</style>
+
+        <!-- All areas are listed in the line below. You can use this list in your script. -->    <!--{id:"IR-32"},{id:"IR-15"},{id:"IR-13"},{id:"IR-31"},{id:"IR-30"},{id:"IR-29"},{id:"IR-16"},{id:"IR-19"},{id:"IR-17"},{id:"IR-01"},{id:"IR-02"},{id:"IR-28"},{id:"IR-11"},{id:"IR-24},{id:"IR-26"},{id:"IR-22"},{id:"IR-03"},{id:"IR-23"},{id:"IR-05"},{id:"IR-20"},{id:"IR-10"},{id:"IR-08"},{id:"IR-25"},{id:"IR-07"},{id:"IR-12"},{id:"IR-21"},{id:"IR-27"},{id:"IR-14"},{id:"IR-04"},{id:"IR-06"},{id:"IR-18"}-->
+
+	</defs>
+
+
+ <path d="M585.1 838.8l -1 -0.1 -0.4 -0.9 0.2 -0.4 1 -0.6 0.6 0.2 0.1 1.4 -0.5 0.4z m-323.5 -250.2l0.3 0.1 0 0.5 0.1 1.7-1.4-0.1-0.4 0.5-1-0.5-0.1-1.2 0.2-0.8 0.9-0.2 1.4 0z" id="IRN99" name="sd">
+ </path>
+
+</svg>
